@@ -1,7 +1,7 @@
 # Motorsport Engineering Project Ideas
 **For:** Aerospace Engineering student (K.N. Toosi) aiming at high-performance motorsport (aero/CFD, vehicle performance, WEC/F1 pathway)  
 **Tools focus:** Ansys (Fluent, Mechanical, Discovery, Motion), SolidWorks, Python  
-**Goal:** Build a strong, documentable portfolio for Italian Master’s applications (especially MUNER Racing Car Design) and future motorsport roles.
+**Goal:** Build a strong, documentable portfolio for future motorsport roles.
 
 ---
 
@@ -438,14 +438,3 @@ Apply formal Design of Experiments to one of your aero or structural projects (e
 - Conclusions on most influential parameters
 ### How to present
 Methodology-strong report. Impressive to admissions tutors and engineers.
-
----
-
-**Recommended Minimum Portfolio (for Master’s applications)**
-- 1–2 strong CFD projects (e.g. 1.1 + 1.2)
-- 1 suspension / dynamics project (2.1 or 2.4)
-- 1 structural project (3.1)
-- 1 integrated project (5.1 or 5.2)
-- Your statistical paper + any automation tools
-
-Document everything cleanly. Quality and clear communication matter more than quantity.
