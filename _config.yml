@@ -1,0 +1,40 @@
+# -----------------------------------------------------------------------------
+# Site Settings
+# -----------------------------------------------------------------------------
+title: The Other Garage
+description: My projects repo
+url: "https://el-castellano.github.io"
+baseurl: "/the-other-garage"    
+
+# -----------------------------------------------------------------------------
+# Theme & Color Scheme Settings
+# -----------------------------------------------------------------------------
+remote_theme: just-the-docs/just-the-docs
+
+# Enables automatic light/dark mode with a toggle button in the UI
+color_scheme: toggle
+
+# Optional: Set initial theme preference when a user first visits
+# Options: light (default) or dark
+# default_color_scheme: dark
+
+# -----------------------------------------------------------------------------
+# Navigation Settings
+# -----------------------------------------------------------------------------
+# Enables auto-sorting of sidebar links based on 'nav_order' in front matter
+nav_sort: nav_order
+
+# Auxiliary links shown at the top right of the page
+aux_links:
+  "GitHub Repository": "https://github.com/username/repository-name"
+
+# Footer configuration
+footer_content: "Powered by <a href=\"https://just-the-docs.github.io/just-the-docs/\">Just the Docs</a>."
+last_edit_timestamp: true # Displays "Last updated" on pages based on git commits
+
+# -----------------------------------------------------------------------------
+# Plugins (Required for GitHub Pages hosting)
+# -----------------------------------------------------------------------------
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
