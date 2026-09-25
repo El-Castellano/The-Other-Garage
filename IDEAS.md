@@ -1,4 +1,4 @@
-# Motorsport Project Ideas
+# IDEAS
 **For:** Aerospace Engineering student (K.N. Toosi) aiming at high-performance motorsport (aero/CFD, vehicle performance, WEC/F1 pathway)  
 **Tools focus:** Ansys (Fluent, Mechanical, Discovery, Motion), SolidWorks, Python  
 **Goal:** Build a strong, documentable portfolio for future motorsport roles.
