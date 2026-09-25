@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
----
-
 # The Other Garage
 
 **Project ideas and build logs for getting better at motorsports design.**  
