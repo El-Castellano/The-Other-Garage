@@ -11,8 +11,7 @@ baseurl: "/The-Other-Garage"
 # -----------------------------------------------------------------------------
 remote_theme: just-the-docs/just-the-docs
 
-# Enables automatic light/dark mode with a toggle button in the UI
-color_scheme: toggle
+color_scheme: dark
 
 # Optional: Set initial theme preference when a user first visits
 # Options: light (default) or dark
